@@ -74,6 +74,7 @@ Dashboard & interactive elements
   - Salesperson productivity with conditional formatting
   - Service level % meeting 7-day target
 - Slicers linked to PivotTables by reporting connection for dynamic filtering.
+<img width="1808" height="561" alt="Screenshot 2026-02-01 140106" src="https://github.com/user-attachments/assets/6d538da7-7b4d-4b53-bba8-b1e8b56a6710" />
 
 Insights derived from the Dashboard
 - In Africa, A lot of profits was collected from Distribution sales and it was a bit evenly distributed
